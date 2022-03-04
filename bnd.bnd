@@ -1,0 +1,4 @@
+Bundle-Name: prezz-site-initializer
+Bundle-SymbolicName: com.liferay.example.site.initializer
+Bundle-Version: 1.0.0
+Export-Package: com.liferay.example.site.initializer.api
